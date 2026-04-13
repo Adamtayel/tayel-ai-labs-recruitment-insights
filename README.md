@@ -24,9 +24,8 @@ Environment Management: python-dotenv for secure credential handling.
 
 Deployment: Streamlit Cloud with GitHub CI/CD integration.
 
-
+![Processing Screenshot](./screenshots/processing.png)
 
 ![PDF Sample](./screenshots/sample_pdf.png)
 
 
-![Processing Screenshot](./screenshots/processing.png)
