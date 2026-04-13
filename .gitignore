@@ -3,3 +3,7 @@ venv/
 __pycache__/
 *.pdf
 last_profile_raw.txt
+
+git remote add origin https://github.com/Adamtayel/tayel-ai-labs-recruitment-insights.git
+git branch -M main
+git push -u origin main
